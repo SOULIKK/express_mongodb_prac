@@ -1,0 +1,31 @@
+{
+  "name": "express_mongodb_prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOULIKK/express_mongodb_prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOULIKK/express_mongodb_prac/issues"
+  },
+  "homepage": "https://github.com/SOULIKK/express_mongodb_prac#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.2.7",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15",
+    "passport": "^0.5.2",
+    "sharp": "^0.30.3"
+  }
+}
